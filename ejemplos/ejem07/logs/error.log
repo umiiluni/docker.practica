@@ -1,0 +1,3 @@
+2026/05/26 20:00:09 [emerg] 1#1: host not found in upstream "php7" in /etc/nginx/conf.d/myapp.conf:14
+2026/05/26 20:00:25 [emerg] 1#1: host not found in upstream "php7" in /etc/nginx/conf.d/myapp.conf:14
+2026/05/26 20:01:07 [emerg] 1#1: host not found in upstream "php7" in /etc/nginx/conf.d/myapp.conf:14
